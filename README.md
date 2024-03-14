@@ -1,3 +1,9 @@
+Food Management System
+
+It is a web application developed using Mern Stack.
+• It allows customers to browse menus , receive & process orders and communicate with customers..
+• To ensure the website complies with all relevant legal & regulatory requirements.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
